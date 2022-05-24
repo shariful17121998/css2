@@ -1,0 +1,32 @@
+.box-1{
+    color: blue;
+    font-size: 20px;
+    width: 800px;
+    height: 400px;
+    border-top: 10px dashed crimson;
+    border-right: 10px dotted rebeccapurple;
+    border-bottom: 10px groove coral;
+    border-left: 10px double rosybrown;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-left: 40px;
+    margin-top: 200px;
+    margin-left: 200px;
+    box-sizing: border-box;
+    outline: 40px solid coral;
+}
+
+.box-2{
+    
+    color: brown;
+    font-size: 20px;
+    width: 800px;
+    height: 400px;
+    border: 10px solid  red;
+    padding: 40px 0px 0px 40px;
+    margin: 200px 0px 200px 200px;
+    box-sizing: border-box;
+    outline: 40px solid rebeccapurple;
+    overflow: auto;
+}
+
